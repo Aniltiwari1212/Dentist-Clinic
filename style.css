@@ -387,7 +387,7 @@ margin-right: 30px;
     color: white;
 }
 .service_sec{
-background: url(../img/service_bg.webp) no-repeat;
+background: url(service_bg.webp) no-repeat;
     background-size: cover;
     padding-bottom: 130px;
     padding: 50px 50px;
